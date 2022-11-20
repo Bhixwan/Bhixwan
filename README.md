@@ -44,7 +44,7 @@
 <!-- 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />  -->
 
-<img align='right' src="https://media4.giphy.com/media/iJCo9daAP0xugHhhfb/giphy.gif?cid=790b7611d70366c6f78e30b20b947de81c93558a781bcf49&rid=giphy.gif&ct=g" height="" width="350" alt="coding cat">
+<img align='right' src="https://media4.giphy.com/media/iJCo9daAP0xugHhhfb/giphy.gif?cid=790b7611d70366c6f78e30b20b947de81c93558a781bcf49&rid=giphy.gif&ct=g" height="" width="300" alt="coding cat">
 
 - 🤔 &nbsp; I like to think and generate ideas.
 - 🎓 &nbsp; Game Developer
