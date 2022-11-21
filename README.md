@@ -59,7 +59,6 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhixwan&show_icons=true&locale=en&layout=compact" alt="bhixwan" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhixwan&show_icons=true&locale=en" alt="bhixwan" /></p>
 
 <br>
