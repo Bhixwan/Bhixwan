@@ -9,7 +9,7 @@
 
 ![mi perfil](https://64.media.tumblr.com/cf748aa5518f0ad3dae74162424f4a04/76ddd678316d5ac1-2e/s1280x1920/2d44253cd906c372b65071c303930a269bf38729.gif)
 
- <h2 align="center">Redes sociales:</h2>
+ <h2 align="center">Bhix sociales:</h2>
 
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Emre Üstek | 👨‍💻 Game Developer | junior</p>
