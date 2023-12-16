@@ -12,7 +12,7 @@
  <h2 align="center">Bhix sociales:</h2>
 
 
-<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Emre Üstek | 👨‍💻 Game Developer | junior</p>
+<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Emre Üstek | 👨‍💻 Developer | junior</p>
 
 
 
