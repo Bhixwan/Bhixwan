@@ -66,7 +66,7 @@
 <hr>
 
 # Reditem Games
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://jimdo-storage.freetls.fastly.net/image/331649899/2efcb20f-f507-45e4-8613-149efcf6bff8.jpg?format=pjpg&amp;quality=80,90&amp;auto=webp&amp;disable=upscale&amp;width=1440&amp;height=768&amp;trim=0,0,0,0" width="1002" height="534">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://jimdo-storage.freetls.fastly.net/image/331649899/2efcb20f-f507-45e4-8613-149efcf6bff8jpg?format=pjpg&amp;quality=80,90&amp;auto=webp&amp;disable=upscale&amp;width=1440&amp;height=768&amp;trim=0,0,0,0" width="1002" height="534">
 
 #
 <h3>Reditem games studio</h3>
